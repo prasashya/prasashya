@@ -65,7 +65,7 @@
 
 An intelligent voice assistant that processes voice commands and executes system tasks in real time. Integrates DeepSeek LLM via Ollama for natural language understanding and context-aware conversations.
 
-[View on GitHub →](https://github.com/prasashya/ai-voice-assistant)
+[View on GitHub →]((https://github.com/prasashya/JarvisAI))
 
 ---
 
@@ -74,7 +74,7 @@ An intelligent voice assistant that processes voice commands and executes system
 
 A CNN-based deep learning model for real-time facial expression classification. Includes a full computer vision pipeline — face detection, normalization, and augmentation — supporting both live webcam and static image inputs.
 
-[View on GitHub →](https://github.com/prasashya/facial-expression-recognition)
+[View on GitHub →](https://github.com/prasashya/DL-sentiment)
 
 ---
 
