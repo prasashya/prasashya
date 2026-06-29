@@ -65,7 +65,7 @@
 
 An intelligent voice assistant that processes voice commands and executes system tasks in real time. Integrates DeepSeek LLM via Ollama for natural language understanding and context-aware conversations.
 
-[View on GitHub →]((https://github.com/prasashya/JarvisAI))
+[View on GitHub →](https://github.com/prasashya/JarvisAI)
 
 ---
 
