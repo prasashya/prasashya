@@ -56,27 +56,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### 🎙️ AI Voice Assistant
-> *Python · Ollama · DeepSeek LLM · SpeechRecognition · gTTS*
-
-An intelligent voice assistant that processes voice commands and executes system tasks in real time. Integrates DeepSeek LLM via Ollama for natural language understanding and context-aware conversations.
-
-[View on GitHub →](https://github.com/prasashya/JarvisAI)
-
----
-
-### 😄 Facial Expression Recognition
-> *Python · TensorFlow/Keras · OpenCV · CNN · NumPy*
-
-A CNN-based deep learning model for real-time facial expression classification. Includes a full computer vision pipeline — face detection, normalization, and augmentation — supporting both live webcam and static image inputs.
-
-[View on GitHub →](https://github.com/prasashya/DL-sentiment)
-
----
 
 ## 📜 Certifications
 
