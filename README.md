@@ -17,9 +17,8 @@
 - Python
 
 📫 Reach me
-- LinkedIn: https://linkedin.com/in/your-profile
+- LinkedIn: https://linkedin.com/in/your-profile![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=prasashyaE&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasashya&layout=compact&theme=tokyonight)
 - Email: your@email.com
 
-- ![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
