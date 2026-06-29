@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:prasashyaanshul@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_GITHUB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/prasashya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -65,7 +65,7 @@
 
 An intelligent voice assistant that processes voice commands and executes system tasks in real time. Integrates DeepSeek LLM via Ollama for natural language understanding and context-aware conversations.
 
-[View on GitHub →](https://github.com/YOUR_GITHUB/ai-voice-assistant)
+[View on GitHub →](https://github.com/prasashya/ai-voice-assistant)
 
 ---
 
@@ -74,7 +74,7 @@ An intelligent voice assistant that processes voice commands and executes system
 
 A CNN-based deep learning model for real-time facial expression classification. Includes a full computer vision pipeline — face detection, normalization, and augmentation — supporting both live webcam and static image inputs.
 
-[View on GitHub →](https://github.com/YOUR_GITHUB/facial-expression-recognition)
+[View on GitHub →](https://github.com/prasashya/facial-expression-recognition)
 
 ---
 
