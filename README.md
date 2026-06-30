@@ -67,7 +67,7 @@
 
 ## 📊 GitHub Stats
   <p align = "center">
-    <img src = "https://www.pngmart.com/files/23/Github-Logo-PNG.png" width = "20%" height = "20%">
+    <img src = "https://www.pngmart.com/files/23/Github-Logo-PNG.png" width = "10%" height = "10%">
   </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prasashya&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
