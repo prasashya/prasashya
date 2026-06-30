@@ -61,7 +61,6 @@
 
 - 🏅 **Supervised Machine Learning: Regression and Classification** — DeepLearning.AI & Stanford University
 - 🏅 **Unsupervised Learning, Recommenders, Reinforcement Learning** — DeepLearning.AI & Stanford University
-- 🏅 **Getting Started with AI on Jetson Nano** — NVIDIA
 
 ---
 
