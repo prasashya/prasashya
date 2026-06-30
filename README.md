@@ -66,11 +66,9 @@
 ---
 
 ## 📊 GitHub Stats
-<a href="https://github.com/prasashya" target="_blank" height= "20%" height = "20%">
   <p align = "center">
-    <img src = "https://www.pngmart.com/files/23/Github-Logo-PNG.png">
+    <img src = "https://www.pngmart.com/files/23/Github-Logo-PNG.png" width = "20%" height = "20%">
   </p>
-</a>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prasashya&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasashya&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
