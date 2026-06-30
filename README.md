@@ -67,7 +67,9 @@
 
 ## 📊 GitHub Stats
 <a href="https://github.com/prasashya" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <p align = "center">
+    <img src = "https://www.pngmart.com/files/23/Github-Logo-PNG.png">
+  </p>
 </a>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prasashya&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
