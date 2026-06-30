@@ -66,7 +66,7 @@
 ---
 
 ## 📊 GitHub Stats
-<a href="https://github.com/prasashya" target="_blank">
+<a href="https://github.com/prasashya" target="_blank" height= "20%" height = "20%">
   <p align = "center">
     <img src = "https://www.pngmart.com/files/23/Github-Logo-PNG.png">
   </p>
