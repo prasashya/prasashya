@@ -23,13 +23,13 @@
 ---
 
 ## 🔭 What I'm Working On
-🧠 Building a BCI pipeline combining EEG + eye-tracking to classify consumer buy/no-buy decisions and buying intent
-🌊 Using CEEMDAN (noise-assisted ensemble EMD) to decompose 19-channel EEG into IMFs, extracting per-IMF spectral, entropy, and Hjorth features
-👁️ Extracting behavioural and fixation-based eye-tracking features (gaze-path Hjorth parameters, fixation count/duration/latency) to complement EEG signals
-🔍 Applying SHAP-guided, fold-scoped feature selection inside LOOCV to keep feature importance analysis leakage-free
-⚖️ Training XGBoost with a custom focal-loss objective alongside SVM baselines, paired with SMOTE oversampling to handle class imbalance
-📊 Running per-subject Leave-One-Out Cross-Validation with F1/Cohen's κ evaluation, targeting an academic publication on neuromarketing-style decision prediction
-🏆 Currently outperforming the GFT-based hybrid baseline (Kalaganis et al., Brain Informatics 2025, κ ≈ 0.35) with a Cohen's κ of 0.44 on the same Buy/NoBuy task
+- 🧠 Building a BCI pipeline combining EEG + eye-tracking to classify consumer buy/no-buy decisions and buying intent
+- 🌊 Using CEEMDAN (noise-assisted ensemble EMD) to decompose 19-channel EEG into IMFs, extracting per-IMF spectral, entropy, and Hjorth features
+- 👁️ Extracting behavioural and fixation-based eye-tracking features (gaze-path Hjorth parameters, fixation count/duration/latency) to complement EEG signals
+- 🔍 Applying SHAP-guided, fold-scoped feature selection inside LOOCV to keep feature importance analysis leakage-free
+- ⚖️ Training XGBoost with a custom focal-loss objective alongside SVM baselines, paired with SMOTE oversampling to handle class imbalance
+- 📊 Running per-subject Leave-One-Out Cross-Validation with F1/Cohen's κ evaluation, targeting an academic publication on neuromarketing-style decision prediction
+- 🏆 Currently outperforming the GFT-based hybrid baseline (Kalaganis et al., Brain Informatics 2025, κ ≈ 0.35) with a Cohen's κ of 0.44 on the same Buy/NoBuy task
 
 ---
 
