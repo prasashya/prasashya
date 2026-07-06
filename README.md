@@ -69,12 +69,16 @@
 
 ## 📊 GitHub Stats
 
+📈 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasashya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasashya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasashya&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
+
+🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=prasashya&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%" />
+  <img src="https://raw.githubusercontent.com/prasashya/prasashya/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 ---
 
